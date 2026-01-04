@@ -1,0 +1,13 @@
+# Decision Partner — AI for Life's Hard Choices
+# Multi-Agent Thinking Partner with LangGraph
+# Author: Chad Sellers | linkedin.com/in/chadsellers
+
+# LangGraph for multi-agent orchestration
+langgraph>=0.2.0
+langchain-core>=0.2.0
+
+# Hugging Face Inference Providers
+huggingface-hub>=0.25.0
+
+# Gradio UI
+gradio>=4.0.0
